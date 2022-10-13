@@ -1,3 +1,4 @@
+![mock1](https://user-images.githubusercontent.com/71015476/195692399-2f11214b-26d5-428e-9214-a1713b336199.png)
 <h3>📚 Resume</h3>
 I believe that replicating the LOL client would be a great way to practice CSS3, after all it is an application with many details that make a difference.
 <br>
