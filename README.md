@@ -21,7 +21,7 @@ I performed the login screen and the loading screen, the client home is still pe
 
 ## ⚙️ Installation
 ```
-# Open an terminal and type the command above
+# Open a terminal and type the command above
 $ git clone https://github.com/Verdant31/League-of-Legends-Clone.git
 ```
 
